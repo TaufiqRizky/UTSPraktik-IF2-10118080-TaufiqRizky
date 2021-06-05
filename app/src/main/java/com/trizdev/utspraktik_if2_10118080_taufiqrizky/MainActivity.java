@@ -14,6 +14,9 @@ import android.widget.RadioGroup;
 
 import java.util.Calendar;
 
+//nim : 10118080
+//nama : Taufiq Rizky
+//Kelas : IF2/S1/VI
 public class MainActivity extends AppCompatActivity {
     public static final String Extra_NAMA = "com.trizdev.utspraktik_if2_10118080_taufiqrizky.NAMA";
     public static final String Extra_nik = "com.trizdev.utspraktik_if2_10118080_taufiqrizky.nik";
