@@ -70,7 +70,7 @@ public class Konfirmasi extends AppCompatActivity {
                 intent2.putExtra(Extra_NAMA,nama);
                 intent2.putExtra(Extra_tgl,tgl);
                 intent2.putExtra(Extra_jk,jk);
-                intent2.putExtra(Extra_jk,hub);
+                intent2.putExtra(Extra_hub,hub);
 
 //                if (hub == "Orang Tua"){
 //                    intent2.putExtra(Extra_hub,"hbg_ort");

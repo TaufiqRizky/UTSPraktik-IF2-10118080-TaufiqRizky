@@ -27,7 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:paddingHorizontal="50dp"
+        android:paddingHorizontal="25dp"
         android:textAlignment="center"
         android:text="Terima kasih, laporan Anda membantu kami dalam melakukan penanganan kasus secara tepat."/>
 
